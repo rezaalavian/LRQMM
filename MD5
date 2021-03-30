@@ -1,0 +1,16 @@
+9c1663239af51c589cc2ae608e41bfd9 *DESCRIPTION
+6e9ebbe117485df367ff5548e7f60c68 *NAMESPACE
+be091f6d7056a2c335eb7264a684b492 *R/PINVmat.R
+0fdb355be326c8f063ed98c70b83ec99 *R/STDE.R
+ed63a8361a607f6475a118bcc4c1ec04 *R/SVDmat.R
+96804801a471d442deec5ee46eafbe6e *R/lrqmm.R
+903617e7233d42c633b0b33cf2d308ea *R/lrqmm_m.R
+309a5e7d6c0f52e843bda35c3d260cea *R/spginv.R
+2693d8bacc0faf4139b375e4e06e58a0 *data/Cow.rda
+ac258511ce6d04ea2cbeb914972f41a7 *man/Cow.Rd
+436eb96e431ec20d990f8e8e4e27b85a *man/PINVmat.Rd
+93c7aff5965a2a7de7c5de9efb1d986b *man/STDE.Rd
+7f60e59e6f88e9e56dfd508815df0622 *man/SVDmat.Rd
+e3ee6d30a8c52ba7c8d817997ace006a *man/lrqmm.Rd
+38a780d11bf76b111e0523e510869841 *man/lrqmm_m.Rd
+a5600993edd7afaba5b60c19883e8307 *man/spginv.Rd

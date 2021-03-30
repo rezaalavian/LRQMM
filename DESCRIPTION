@@ -1,0 +1,26 @@
+Package: LRQMM
+Type: Package
+Title: Fitting Linear Quantile Regression Mixed Models with
+        Relationship Matrix
+Version: 1.2.2
+Author: Sayyed Reza Alavian[aut,cre]
+        Majid Sarmad[ths]
+        Mehdi Jabbari Nooghabi[ths]
+        Hani Rezaee[ctb]
+        Saeed Zerehdaran[ctb]
+        Ferdowsi University Of Mashhad [cph]
+Maintainer: Sayyed Reza Alavian <s.rezaalavian@mail.um.ac.ir>
+Description: Fit a quantile regression mixed model involved Relationship Matrix using a sparse implementation of the
+  Frisch-Newton interior-point algorithm as described in 
+  Portnoy and Koenker (1977, Statistical Science)  <https://www.jstor.org/stable/2246216>. 
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports: GeneticsPed, SparseM, quantreg, Matrix, kinship2, MCMCglmm,
+        rsvd, R.matlab, sparsesvd
+Suggests: MASS
+NeedsCompilation: no
+Packaged: 2020-08-02 04:44:02 UTC; REZA
+Repository: CRAN
+Date/Publication: 2020-08-02 22:20:06 UTC
